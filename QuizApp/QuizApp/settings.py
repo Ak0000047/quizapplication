@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'django_filters',
     'rest_framework.authtoken',
     'rest_framework_simplejwt',
-    'quizweb'
+    'quizweb',
+    'testapp'
     ]
 
 MIDDLEWARE = [
